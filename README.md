@@ -36,7 +36,9 @@ To get announcements when these are made available, you can sign up to the follo
 
 https://groups.google.com/forum/#!forum/protostars
 
-(note that you do not need a Google account, and can sign up by sending an empty email to protostars+subscribe@googlegroups.com)
+Note that you do not need a Google account, and can sign up by sending an empty email to:
+
+protostars+subscribe@googlegroups.com
 
 ### Contact
 
