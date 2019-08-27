@@ -43,6 +43,11 @@ There is currently no table of r_sub values for each model, but you can find thi
 
 to find out the r_sub radius in au for each model.
 
+**What is mu in Equations (4) and (6) of paper?**
+
+The mu variable is defined as cos(theta).
+
+
 ### Future plans
 
 This repository will evolve over time. In particular, I may:
